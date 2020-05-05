@@ -1,6 +1,5 @@
 from time import sleep
 from os import system
-import requests
 import random
 import sys
 
